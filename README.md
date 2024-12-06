@@ -6,6 +6,3 @@
 🌱 Currently building efficient database solutions for scalable web applications.  
 💞️ I’m looking to collaborate on open-source projects and cloud-native solutions.  
 📫 How to reach me: mgitknock@gmail.com
-
-[GitHub](https://github.com/enockmoindi/)  
-
